@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_06_Activity_Switching.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_06_Activity_Switching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android_06_Activity_Switching.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android_06_Activity_Switching.app.iml" />
+    </modules>
+  </component>
+</project>
